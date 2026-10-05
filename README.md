@@ -7,7 +7,7 @@
 | Category | Done | Total |
 |---|---|---|
 | Arrays & Hashing | 9 | 9 |
-| Two Pointers | 2 | 5 |
+| Two Pointers | 3 | 5 |
 | Sliding Window | 0 | 6 |
 | Stack | 0 | 7 |
 | Binary Search | 0 | 7 |
