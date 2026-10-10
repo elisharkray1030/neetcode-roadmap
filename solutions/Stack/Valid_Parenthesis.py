@@ -1,5 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+        if len(s) % 2:                          # odd length is always invalid
+            return False
         stack = [] # initialize stack
         closeToOpen = {")" : "(", # initialize hashmap for cross reference
                         "}" : "{",
