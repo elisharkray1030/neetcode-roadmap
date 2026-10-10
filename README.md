@@ -9,7 +9,7 @@
 | Arrays & Hashing | 9 | 9 |
 | Two Pointers | 5 | 5 |
 | Sliding Window | 0 | 6 |
-| Stack | 0 | 7 |
+| Stack | 1 | 7 |
 | Binary Search | 0 | 7 |
 | Linked List | 0 | 11 |
 | Trees | 0 | 11 |
