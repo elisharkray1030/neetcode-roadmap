@@ -10,7 +10,7 @@
 | Two Pointers | 5 | 5 |
 | Sliding Window | 0 | 6 |
 | Stack | 6 | 6 |
-| Binary Search | 0 | 7 |
+| Binary Search | 2 | 7 |
 | Linked List | 0 | 11 |
 | Trees | 0 | 11 |
 | Heap / Priority Queue | 0 | 7 |
